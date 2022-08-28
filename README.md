@@ -15,4 +15,4 @@ The following **required** functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://gyazo.com/474b26e36291deb643605545baa94fa' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://gyazo.com/474b26e36291deb643605545baa94fa4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
